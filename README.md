@@ -8,6 +8,6 @@
 - [Master Roadmap](https://github.com/orgs/FUREQ-DEVELOP/projects/1)
 
 ## 独立した開発班
-- 描画: [RenderingWorkspace](https://github.com/FUREQ-DEVELOP/RenderingWorkspace)、[RenderingLibrary](https://github.com/FUREQ-DEVELOP/RenderingLibrary)
-- エンジン: [EngineWorkspace](https://github.com/FUREQ-DEVELOP/EngineWorkspace)、[GameEngine](https://github.com/FUREQ-DEVELOP/GameEngine)、[EngineEditor](https://github.com/FUREQ-DEVELOP/EngineEditor)、[EngineHub](https://github.com/FUREQ-DEVELOP/EngineHub)
-- ゲーム: [Game-001](https://github.com/FUREQ-DEVELOP/Game-001)、[Code](https://github.com/FUREQ-DEVELOP/Game-001-Code)、[Art](https://github.com/FUREQ-DEVELOP/Game-001-Art)、[Design](https://github.com/FUREQ-DEVELOP/Game-001-Design)
+- 描画: [タスク管理](https://github.com/orgs/FUREQ-DEVELOP/projects/2)、[RenderingWorkspace](https://github.com/FUREQ-DEVELOP/RenderingWorkspace)、[RenderingLibrary](https://github.com/FUREQ-DEVELOP/RenderingLibrary)
+- エンジン: [タスク管理](https://github.com/orgs/FUREQ-DEVELOP/projects/4)、[EngineWorkspace](https://github.com/FUREQ-DEVELOP/EngineWorkspace)、[GameEngine](https://github.com/FUREQ-DEVELOP/GameEngine)、[EngineEditor](https://github.com/FUREQ-DEVELOP/EngineEditor)、[EngineHub](https://github.com/FUREQ-DEVELOP/EngineHub)
+- ゲーム: [タスク管理](https://github.com/orgs/FUREQ-DEVELOP/projects/5)、[Game-001](https://github.com/FUREQ-DEVELOP/Game-001)、[Code](https://github.com/FUREQ-DEVELOP/Game-001-Code)、[Art](https://github.com/FUREQ-DEVELOP/Game-001-Art)、[Design](https://github.com/FUREQ-DEVELOP/Game-001-Design)
