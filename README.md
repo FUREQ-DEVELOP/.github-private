@@ -1,26 +1,13 @@
-# FUREQ-DEVELOP Internal Portal
+# FUREQ Internal Workspace
 
-Organizationメンバー向けの共同開発ポータルを管理します。
+全リポジトリは現在Publicです。内部専用情報・認証情報・個人情報はここを含むGitHubへ登録しないでください。
 
-## 対象開発班
+## 共通基盤
+- [開発マニュアル](https://github.com/FUREQ-DEVELOP/DevelopmentDocs)
+- [開発ツール](https://github.com/FUREQ-DEVELOP/DevelopmentTools)
+- [Master Roadmap](https://github.com/orgs/FUREQ-DEVELOP/projects)
 
-- 描画ライブラリ開発班
-- ゲームエンジン開発班
-- ゲーム開発班
-- 共通開発基盤管理班
-
-## 管理対象
-
-- メンバー向け開発ポータル
-- 開発班別の案内
-- プロジェクトへのリンク
-- 新規メンバー向けガイド
-- 内部開発情報
-
-## 管理担当
-
-Shared-Services
-
-## 開発状況
-
-開発基盤構築中。
+## 独立した開発班
+- 描画: [RenderingWorkspace](https://github.com/FUREQ-DEVELOP/RenderingWorkspace)、[RenderingLibrary](https://github.com/FUREQ-DEVELOP/RenderingLibrary)
+- エンジン: [EngineWorkspace](https://github.com/FUREQ-DEVELOP/EngineWorkspace)、[GameEngine](https://github.com/FUREQ-DEVELOP/GameEngine)、[EngineEditor](https://github.com/FUREQ-DEVELOP/EngineEditor)、[EngineHub](https://github.com/FUREQ-DEVELOP/EngineHub)
+- ゲーム: [Game-001](https://github.com/FUREQ-DEVELOP/Game-001)、[Code](https://github.com/FUREQ-DEVELOP/Game-001-Code)、[Art](https://github.com/FUREQ-DEVELOP/Game-001-Art)、[Design](https://github.com/FUREQ-DEVELOP/Game-001-Design)
